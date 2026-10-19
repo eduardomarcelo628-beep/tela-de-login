@@ -90,7 +90,8 @@ Foi criado para praticar:
 ```
 tela-de-login/
 ├── assets/
-│   └── login_screen_project.png   # Banner / preview do README
+│   |── login_screen_project.png   # Banner / preview do README
+|   |── demonstracao.png           # Demonstração do projeto
 ├── CSS/
 │   └── styles.css                 # Estilos da página
 ├── HTML/
@@ -179,7 +180,9 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ## 👤 Autor
 
-Feito por **Marcelo**.
+Feito por **Marcelo Eduardo**.
 
 - GitHub: [@eduardomarcelo628-beep](https://github.com/eduardomarcelo628-beep)
 - LinkedIn: [Marcelo Eduardo](https://www.linkedin.com/in/marcelo-eduardo-a03978246/)
+
+<p align="center"> Desenvolvido com dedicação durante minha jornada de aprendizado em programação. ❤️👨🏽‍💻 </p>
